@@ -9,6 +9,7 @@ void main() {
         appBar: AppBar(
           title: const Text('I am Rich'),
           backgroundColor: Colors.blueGrey[900],
+          foregroundColor: Colors.white,
         ),
         body: const Center(
           child: Image(
