@@ -4,7 +4,7 @@ A new Flutter project.
 
 Notes:
 - After adding assets, use: `flutter clean && flutter packages get`
-- For app menu icons, generate from: `https://www.appicon.co/#app-icon`
+- For app menu icons, generate from: `https://www.appicon.co/#app-icon` and `https://www.favicon-generator.org/`
 
 ## Getting Started
 
