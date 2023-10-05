@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Notes:
+- After adding assets, use: `flutter clean && flutter packages get`
+- For app menu icons, generate from: `https://www.appicon.co/#app-icon`
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -1,3 +1,3 @@
 git add .
-git commit -m "feat: working scaffold"
+git commit -m "feat: added embed assets"
 git push -f
